@@ -2,7 +2,6 @@
 
 > A comprehensive nutrition optimization platform helping users maximize nutritional value per dollar across 400,000+ food items
 
-**[📧Contact](mailto:mertisik329@gmail.com)**
 
 [![Django](https://img.shields.io/badge/Django-4.2-green.svg)](https://www.djangoproject.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue.svg)](https://www.postgresql.org/)
