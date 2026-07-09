@@ -369,8 +369,6 @@ Track daily consumption with comprehensive spending and nutrition insights.
 
 ProteinPerDollar.com is a project focused on solving a real problem: optimizing food budgets while maintaining nutritional goals. The platform combines data engineering, full-stack web development, and UX design to create a tool that helps users make smarter food purchasing decisions.
 
-**Production URL:** [https://proteinperdollar.com](https://proteinperdollar.com)
-
 ---
 
 ## Contact
